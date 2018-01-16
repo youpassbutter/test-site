@@ -1,0 +1,1 @@
+This is a testing website I am building as a part of my education through [The Odin Project](https://www.theodinproject.com).
